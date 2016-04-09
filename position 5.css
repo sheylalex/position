@@ -1,0 +1,18 @@
+div{
+	width: 200px;
+	height: 200px;
+	position: relative;
+ 	}
+.roja{
+	background:red;
+    }
+.azul{
+	background: blue;
+	position: absolute;
+	left: 200px} 
+.verde{
+	background:green;
+   }
+.amarilla{
+	background: yellow;
+	}
