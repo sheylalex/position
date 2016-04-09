@@ -1,0 +1,29 @@
+div{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+.cajaroja{
+	background:#ee3e64;
+    left: 0px;
+    top: 0px;
+}	
+.cajaazul{
+	background: #3399FF;
+    right: 0px;
+    top: 0px;
+	}
+.cajaverde{
+	background:#b7d84b;
+    left: 0px;
+    bottom: 0px;
+}
+.cajaamarilla{
+	background: #FFFF00;
+    right: 0px;
+    bottom: 0px;
+}
