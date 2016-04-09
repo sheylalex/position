@@ -1,0 +1,19 @@
+div{
+	width: 200px;
+	height: 200px;
+	position:relative;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+.caja1{
+	background:#ee3e64; 
+}
+.caja2{
+	background: #3399FF;
+	margin-left:200px;
+}
+.caja3{
+	background:#b7d84b;
+}
